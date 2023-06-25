@@ -1,3 +1,10 @@
 {
-  "vimMode": true
+  "vimMode": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "strictLineBreaks": false,
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "showFrontmatter": false,
+  "readableLineLength": false
 }
