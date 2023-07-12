@@ -26,9 +26,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc3774004f99cd7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nestjs/5 种 HTTP 数据传输方式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "194d87a5df063452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nestjs/IOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c5aeb9bbd7c96c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nestjs/调试 Nestjs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "002457bd25ad8fcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nestjs/Providers 的灵活注入.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d8c76c011aeddd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nestjs/Hello Nestjs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -78,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426.5
+    "width": 287.5
   },
   "right": {
     "id": "0e2893f9afce107f",
@@ -94,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nestjs/Nest Cli.md",
+                "file": "nestjs/Providers 的灵活注入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nestjs/Nest Cli.md",
+                "file": "nestjs/Providers 的灵活注入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nestjs/Nest Cli.md"
+                "file": "nestjs/Providers 的灵活注入.md"
               }
             }
           }
@@ -155,13 +215,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e8df00d556dd9543",
+  "active": "002457bd25ad8fcc",
   "lastOpenFiles": [
+    "nestjs/调试 Nestjs.md",
+    "nestjs/Providers 的灵活注入.md",
+    "nestjs/IOC.md",
+    "nestjs/5 种 HTTP 数据传输方式.md",
     "nestjs/Nest Cli.md",
+    "nestjs/Hello Nestjs.md",
     "未命名 1.md",
     "未命名",
     "未命名.md",
-    "nestjs/Hello Nestjs.md",
     "README.md",
     "nestjs",
     "test.md"

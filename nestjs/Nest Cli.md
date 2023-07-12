@@ -54,7 +54,7 @@ Commands:
       └───────────────┴─────────────┴──────────────────────────────────────────────┘
 ```
 
-### nest new -h
+### nest new
 ```sh
 # nest new -h
 Usage: nest new|n [options] [name]

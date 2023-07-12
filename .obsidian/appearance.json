@@ -1,5 +1,6 @@
 {
   "accentColor": "#3f7ba6",
-  "cssTheme": "Obsidian Nord Enhanced",
-  "interfaceFontFamily": "JetBrains Mono"
+  "cssTheme": "Atom",
+  "interfaceFontFamily": "JetBrains Mono",
+  "theme": "moonstone"
 }
